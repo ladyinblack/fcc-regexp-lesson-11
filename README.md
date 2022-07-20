@@ -2,6 +2,8 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-8vympr)
 
+### [Match Single Characters Not Specified](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-characters-not-specified)
+
 ## PROBLEM EXPLANATION
 In this challenge, we are asked to return a collection of matches that are not exactly specified.  Whereas previous regexp challenges would have you match within the character case `[a-z]`, this challenge instead asks us to negate these matches using the caret character `[^a-z]`.  Our goal then is to return a negated collection (non-matches) of letters that are not vowels nor numbers.
 
